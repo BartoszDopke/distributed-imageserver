@@ -1,0 +1,1 @@
+# Lambda@Edge for validating JWT coming from Cognito
